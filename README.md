@@ -26,3 +26,6 @@
 </p>
 
 ----
+
+
+#### More work incoming related to image capture and OCR for Lisence plate...
