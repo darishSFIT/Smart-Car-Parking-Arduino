@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://imgur.com/PMKldB8.png">
 </p>
+
 #### More work incoming related to image capture and OCR for Lisence plate...
 
 
