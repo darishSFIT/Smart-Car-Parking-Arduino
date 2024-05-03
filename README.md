@@ -39,7 +39,7 @@
   <img src="https://imgur.com/PMKldB8.png">
 </p>
 
-### `capture.py` file runs in background to capture an image of the Lisence Plate when the it reads "Vehicle Entered" from serial monitor
+### `capture.py` file runs in background to capture an image of the Lisence Plate when the it reads "Entry Detected" from serial port
 
 #### More work incoming related to image capture and OCR for Lisence plate...
 
